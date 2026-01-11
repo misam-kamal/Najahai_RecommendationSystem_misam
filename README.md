@@ -21,10 +21,10 @@ It supports **English and Arabic languages** and uses **TF-IDF vectorization wit
 
 ## Project Structure
 
-├── app.py # Flask application
-├── database.py # Database connection and queries
+├── app.py            # Flask application
+├── database.py       # Database connection and queries
 ├── recommendation.py # Course recommendation logic
-├── constant.py # Language constants
+├── constant.py       # Language constants
 └── README.md
 
 
